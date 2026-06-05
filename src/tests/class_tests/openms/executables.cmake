@@ -221,6 +221,8 @@ set(format_executables_list
   MzDataValidator_test
   MzIdentMLValidator_test
   MzMLFile_test
+  ImzMLFile_test
+  ImzMLFile_all_modes_test
   MzMLSpectrumDecoder_test
   MzMLSqliteHandler_test
   MzMLSqliteSwathHandler_test

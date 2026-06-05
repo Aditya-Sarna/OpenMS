@@ -52,6 +52,7 @@ MascotXMLFile.cpp
 MsInspectFile.cpp
 MzDataFile.cpp
 MzIdentMLFile.cpp
+ImzMLFile.cpp
 MzMLFile.cpp
 MzQCFile.cpp
 MzTab.cpp

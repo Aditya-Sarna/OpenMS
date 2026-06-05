@@ -63,6 +63,7 @@ MascotRemoteQuery.h
 MascotXMLFile.h
 MsInspectFile.h
 MzDataFile.h
+ImzMLFile.h
 MzMLFile.h
 MzQCFile.h
 MzTab.h
